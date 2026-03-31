@@ -1,36 +1,114 @@
-# 💫 About Me:
-Passionate coder & tech enthusiast 💻 | Open-source believer 🌍 | Lifelong learner 📚 | Building cool stuff & turning ideas into reality ⚡ | Always exploring, always growing 🚀 | Let’s connect & create something amazing 🤝
+<!-- Animated Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Joel;Full-Stack+Developer;Tech+Enthusiast+🚀;Building+Cool+Stuff+💻" />
+</h1>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@joexdag) 
+<!-- Glass Card: About -->
+<div align="center">
+  <img src="https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joel-Programmer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Joel-Programmer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Programmer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joel-Programmer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🚀 Building cool things with code  
+💻 Passionate about software, AI & web development  
+🌱 Always learning, always improving  
+⚡ Turning ideas into real-world projects  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Joel-Programmer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<!--
-**Joel-Programmer/Joel-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Glass Card: Socials -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/@joexdag">
+    <img src="https://img.shields.io/badge/Instagram-1f2937?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Glass Card: Tech Stack -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=for-the-badge&logo=code&logoColor=white" />
+</div>
+
+<p align="center">
+  
+![Python](https://img.shields.io/badge/python-1f2937?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Dart](https://img.shields.io/badge/dart-1f2937?style=for-the-badge&logo=dart&logoColor=0175C2)
+![TypeScript](https://img.shields.io/badge/typescript-1f2937?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Go](https://img.shields.io/badge/go-1f2937?style=for-the-badge&logo=go&logoColor=00ADD8)
+
+![React](https://img.shields.io/badge/react-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/next.js-1f2937?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-1f2937?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-1f2937?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+
+![Django](https://img.shields.io/badge/django-1f2937?style=for-the-badge&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/flask-1f2937?style=for-the-badge&logo=flask&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/sqlite-1f2937?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![Firebase](https://img.shields.io/badge/firebase-1f2937?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Postgres](https://img.shields.io/badge/postgres-1f2937?style=for-the-badge&logo=postgresql&logoColor=316192)
+![MySQL](https://img.shields.io/badge/mysql-1f2937?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+![Google Cloud](https://img.shields.io/badge/google%20cloud-1f2937?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Vercel](https://img.shields.io/badge/vercel-1f2937?style=for-the-badge&logo=vercel&logoColor=white)
+
+</p>
+
+---
+
+<!-- Glass Card: Stats -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Stats-111827?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joel-Dag&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Joel-Dag&theme=tokyonight&hide_border=true&background=00000000" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Dag&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+<!-- Glass Card: Trophies -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Trophies-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joel-Dag&theme=onestar&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+<!-- Glass Card: Contributions -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Top%20Contributions-111827?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Joel-Dag&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<!-- Glass Motto -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Motto-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  
+  > ✨ Build. Learn. Repeat.
+</div>
